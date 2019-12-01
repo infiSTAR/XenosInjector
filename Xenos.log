@@ -1,0 +1,12 @@
+2019-08-07 07:47:36 *NORMAL*     Started on Windows 6.3.0.9600 x64. Driver status: 0xC0000225
+2019-08-07 07:49:44 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 6288, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2019-08-07 07:49:44 *CRITICAL*   Injecting image 'C:\Users\c.nrr\Downloads\onetap-cracked\onetap.dll'
+
+2019-08-10 05:02:53 *NORMAL*     Started on Windows 10.0.0.18362 x64. Driver status: 0xC0000225
+2019-08-10 05:03:33 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7376, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2019-08-10 05:03:33 *CRITICAL*   Injecting image 'C:\Users\c.nrr\Downloads\hentaiware.dll'
+
+2019-08-10 06:09:30 *NORMAL*     Started on Windows 10.0.0.18362 x64. Driver status: 0xC0000225
+2019-08-10 06:09:33 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 6876, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2019-08-10 06:09:33 *CRITICAL*   Injecting image 'C:\Users\c.nrr\Downloads\hentaiware.dll'
+
